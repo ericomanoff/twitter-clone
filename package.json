@@ -1,0 +1,16 @@
+{
+  "name": "twitter-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "tdd": "jest --watchAll"
+  },
+  "author": "eric omanoff",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
